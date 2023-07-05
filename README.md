@@ -1,5 +1,5 @@
 ![maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarufHasan24&show_icons=true&theme=radical&bg_color=222)
-¡[My Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarufHasan24&layout=donut&bg_color=151515&text_color=fff&title_color=fff)
+![My Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarufHasan24&layout=donut&bg_color=151515&text_color=fff&title_color=fff)
 
 <h3>Profile Statistics :</h3>
 <p>
