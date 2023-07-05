@@ -20,4 +20,4 @@
 
 ![my Matrix](https://metrics.lecoq.io/MarufHasan24)
 
-<!-- ![maruf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarufHasan24)](https://github.com/MarufHasan24/MarufHasan24) -->
+![maruf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarufHasan24)
