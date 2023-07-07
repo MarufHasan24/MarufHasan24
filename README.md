@@ -5,7 +5,7 @@
 
 ![my Matrix](https://metrics.lecoq.io/MarufHasan24)
 
-## LAnguage I'm coading now:
+## Language I'm coading now:
 <img src="https://wakatime.com/share/@Marufhasan24/0c05e541-2755-4b7f-b3d4-870677383387.svg" width="50%" height="50%"/>
 
 [![wakatime](https://wakatime.com/badge/user/3176451d-3d2c-445a-9675-fabd72127486.svg)](https://wakatime.com/@3176451d-3d2c-445a-9675-fabd72127486)
