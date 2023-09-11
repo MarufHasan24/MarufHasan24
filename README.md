@@ -3,8 +3,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=MarufHasan24&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarufHasan24&theme=dark&hide_border=false)
 
-<img src="https://metrics.lecoq.io/MarufHasan24" />
-
 ## Language I'm coading now:
 <img src="https://wakatime.com/share/@Marufhasan24/e1cace01-e5ed-4c93-a467-4b4443af1daf.png" width="500vw"/>
 
