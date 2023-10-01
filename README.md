@@ -1,4 +1,4 @@
-![maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarufHasan24&show_icons=true&theme=radical&bg_color=333)
+![maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarufHasan24&show_icons=true&theme=radical)
 ![My Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarufHasan24&layout=donut&bg_color=151515&text_color=fff&title_color=fff&hide=html,css)
 ![](https://github-profile-trophy.vercel.app/?username=MarufHasan24&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarufHasan24&theme=dark&hide_border=false)
