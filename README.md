@@ -3,6 +3,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=MarufHasan24&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarufHasan24&theme=dark&hide_border=false)
 
+[![An image of @marufhasan24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marufhasan24)](https://holopin.io/@marufhasan24)
 ## Language I'm coading now:
 <img src="https://wakatime.com/share/@Marufhasan24/e1cace01-e5ed-4c93-a467-4b4443af1daf.png" width="500vw"/>
 
